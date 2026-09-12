@@ -11,8 +11,7 @@ ooOOoOo     O  o  o        O      o `OoO' `OoO'o Oo        `OoooO'   o     `OoOO
                                                                             OoO' o'                
 ```
 # About Me
-I'm a computer scientist who has tried a lot of different projects as a student.  Now, I'm building my skills in Machine Learning and Malware analysis/engineering. 
-I am now contributing to Open-Source. 
+I'm a professional computer scientist and fledging Open-Source contributor. I've tried a lot of different projects as a student. Now, I'm building my skills in Machine Learning and Malware analysis/engineering. 
 
 I'm interested in exploring embedded systems and I love climbing and flying my drone!
 
