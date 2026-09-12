@@ -33,3 +33,4 @@ How to make and evaluate computer vision Machine Learning models.
 # 👓 I'm Looking for help with
 - Improving how I document my work
 - Project Ideas
+- Creating and using agents with LLM to speedup my workflow
