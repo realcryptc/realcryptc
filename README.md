@@ -17,14 +17,18 @@ I am new to Open-Source Contribution. I've done very little with embedded system
 Let's build something awesome :) 
 
 # 👯 I’m looking to collaborate on ...
-Open Source Software!
+- Open Source Software!
+   - C2 systems
+   - Minecraft Mods
+   - Machine Learning libraries
+   - SDR / DSP 
 
-# I'm Currently Working On
-Improving my skills outside of work
-Improving old projects on my profile
+# 🛠️ I'm Currently Working On
+- Improving old projects on my profile
 
-# I'm Currently Learning
-How to make and evaluate computer vision Machine Learning models
+# 📚 I'm Currently Learning
+How to make and evaluate computer vision Machine Learning models.
 
-# I'm Looking for help with
-Improving how I document my skills
+# 👓 I'm Looking for help with
+- Improving how I document my work
+- Project Ideas
