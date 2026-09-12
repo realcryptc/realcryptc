@@ -12,12 +12,14 @@ ooOOoOo     O  o  o        O      o `OoO' `OoO'o Oo        `OoooO'   o     `OoOO
 ```
 # About Me
 I'm a computer scientist who has tried a lot of different projects but am now starting to build deeper skills in Machine Learning, DevOps, and Malware Development. 
-I am new to Open-Source Contribution. I've done very little with embedded systems but think those are interesting, and I love climbing and flying my drone!
+I am now contributing to Open-Source. 
+
+I'm interested in exploring embedded systems and I love climbing and flying my drone!
 
 Let's build something awesome :) 
 
 # 👯 I’m looking to collaborate on ...
-- Open Source Software!
+- Open Source Software Projects
    - C2 systems
    - Minecraft Mods
    - Machine Learning libraries
